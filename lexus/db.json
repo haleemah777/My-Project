@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "firstName": "Zayd",
+      "lastName": "Adufe",
+      "gender": "Male",
+      "email": "adeniyiadufe@gmail.com",
+      "phoneNumber": "08105031739",
+      "profile": "Pharmacist"
+    },
+    {
+      "id": 3,
+      "firstName": "Naheem",
+      "lastName": "Adewale",
+      "gender": "Male",
+      "email": "wickedson@yahoo.com",
+      "phoneNumber": "08036948452",
+      "profile": "Programmer"
+    },
+    {
+      "id": 4,
+      "firstName": "  Ahmad",
+      "lastName": "Olamilekan",
+      "gender": "Male",
+      "email": "sudaisahmad@gmail.com",
+      "phoneNumber": "08105031739",
+      "profile": "Teacher"
+    },
+    {
+      "firstName": " Adeniji",
+      "lastName": " Monsurat",
+      "email": "adeniji@yahoo.com",
+      "gender": " Female",
+      "phoneNumber": "08123456789",
+      "id": 5
+    },
+    {
+      "firstName": " Adeniji",
+      "lastName": " Monsurat",
+      "email": "adeniji@yahoo.com",
+      "gender": " female",
+      "phoneNumber": "09087654321",
+      "id": 6
+    }
+  ]
+}
